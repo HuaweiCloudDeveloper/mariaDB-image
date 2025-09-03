@@ -14,7 +14,7 @@
 
 ## 项目介绍
 
-[MariaDB](https://github.com/MariaDB/server) 是一款开源的、分布式的、易扩展的原生图数据库，能够承载包含数千亿个点和数万亿条边的超大规模数据集，并且提供毫秒级查询‌。本商品基于鲲鹏服务器的Huawei Cloud EulerOS 2.0 64bit系统，提供开箱即用的MariaDB。
+[MariaDB](https://github.com/MariaDB/server) MariaDB 是一个开源的关系型数据库管理系统，由 MySQL 的创始人 Michael Widenius 主导开发，旨在提供完全兼容 MySQL 的同时，实现更快的开发迭代和更强的扩展性‌。本商品基于鲲鹏服务器的Huawei Cloud EulerOS 2.0 64bit系统，提供开箱即用的MariaDB。
 
 ## 核心特性
 
