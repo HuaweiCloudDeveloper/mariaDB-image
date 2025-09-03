@@ -14,7 +14,7 @@
 
 ## Repository Introduction
 
-[MariaDB](https://github.com/MariaDB/server) is an open-source, distributed, and easily scalable native graph database. It can handle ultra-large-scale datasets containing hundreds of billions of nodes and trillions of edges, and provides millisecond-level queries. This product is based on the Huawei Cloud EulerOS 2.0 64-bit system of Kunpeng servers, offering out-of-the-box MariaDB.
+[MariaDB](https://github.com/MariaDB/server) is an open-source relational database management system led by Michael Widenius, the founder of MySQL. It aims to offer full compatibility with MySQL while achieving faster development iterations and greater scalability. This product is based on the Huawei Cloud EulerOS 2.0 64-bit system of Kunpeng servers, offering out-of-the-box MariaDB.
 
 ## Core Features
 
